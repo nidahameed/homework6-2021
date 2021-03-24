@@ -35,9 +35,9 @@ header{
     /*Don't forget to vertically and horizontally 
     align the element*/
     display: flex;
-    flex-wrap: wrap;    
-    align-items: center;
+    flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 
 /*Requirement 5*/
@@ -57,18 +57,17 @@ header{
   border: 2px solid #45ADAD;
   padding: 20px 0;
   border-radius: 7px 7px 0 0;
-}*/
+}
 
 
 /*Requirement 7*/
-.gallery{
+.gallery {
   min-height: 600px;
   /*Your code here again.*/
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   align-items: center;
-
+  justify-content: center;
 }
 
 /*Requirement 8*/
